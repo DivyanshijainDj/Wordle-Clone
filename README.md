@@ -2,7 +2,7 @@
 
 Clone of a popular game WORDLE.
 
-developed in Python Language and rules are as standard game.
+Developed in Python Language and rules are as standard game.
 
 
 OUTPUT:
